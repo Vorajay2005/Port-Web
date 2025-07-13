@@ -13,7 +13,7 @@ const Portfolio = () => {
   const [currentRole, setCurrentRole] = useState(0);
   const [isVisible, setIsVisible] = useState({});
 
-  const roles = ['Full Stack Developer', 'React Specialist', 'Node.js Expert', 'Cloud Architect'];
+  const roles = ['CS Student', 'Software Engineer', 'AI/ML Developer', 'Full Stack Developer'];
 
   // Typewriter effect
   useEffect(() => {
