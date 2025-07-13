@@ -227,7 +227,7 @@ const Portfolio = () => {
           </h2>
           
           <div className="flex flex-wrap justify-center gap-4 mb-12">
-            {['all', 'web', 'mobile', 'ai'].map((category) => (
+            {['all', 'web', 'ai', 'vr', 'systems'].map((category) => (
               <Button
                 key={category}
                 variant={activeProject === category ? "default" : "outline"}
@@ -238,7 +238,10 @@ const Portfolio = () => {
                 }`}
                 onClick={() => setActiveProject(category)}
               >
-                {category === 'all' ? 'All Projects' : category}
+                {category === 'all' ? 'All Projects' : 
+                 category === 'vr' ? 'VR/AR' : 
+                 category === 'ai' ? 'AI/ML' : 
+                 category}
               </Button>
             ))}
           </div>
