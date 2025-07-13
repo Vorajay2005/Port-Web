@@ -1,14 +1,14 @@
 export const mockData = {
   personal: {
-    name: "Alex Johnson",
-    title: "Full Stack Developer",
-    tagline: "Crafting digital experiences with code, creativity, and endless curiosity. Specialized in building scalable web applications that users love.",
-    bio: "I'm a passionate full-stack developer with 5+ years of experience creating innovative web solutions. I love turning complex problems into simple, beautiful designs. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or teaching others to code.",
+    name: "Jay Vora",
+    title: "Software Engineer & CS Student",
+    tagline: "Computer Science student at Rutgers University with expertise in full-stack development, AI/ML, and innovative tech solutions. Building the future, one line of code at a time.",
+    bio: "I'm a passionate Computer Science student at Rutgers University and current Software Engineer Intern at Puratech. As a member of the Rutgers Honors College with a 3.76 GPA and multiple Dean's List recognitions, I specialize in full-stack development, AI/ML applications, and mixed reality solutions. Winner of HackRU Spring 2025, I love creating innovative solutions that solve real-world problems.",
     stats: [
-      { label: "Years Experience", value: "5+" },
-      { label: "Projects Completed", value: "50+" },
-      { label: "Happy Clients", value: "30+" },
-      { label: "Cups of Coffee", value: "∞" }
+      { label: "GPA", value: "3.76" },
+      { label: "Dean's List", value: "4x" },
+      { label: "Projects Built", value: "10+" },
+      { label: "Hackathons Won", value: "1st" }
     ]
   },
   
