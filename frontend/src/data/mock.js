@@ -106,32 +106,32 @@ export const mockData = {
   
   experience: [
     {
-      role: "Senior Full Stack Developer",
-      company: "TechCorp Solutions",
-      period: "2022 - Present",
-      description: "Lead a team of 5 developers building scalable web applications. Architected microservices infrastructure serving 100k+ daily users. Mentored junior developers and established coding standards.",
-      technologies: ["React", "Node.js", "AWS", "MongoDB", "Docker"]
+      role: "Software Engineer Intern",
+      company: "Puratech Consultancy Solutions Pvt Ltd",
+      period: "Jun 2025 – Present",
+      description: "Developing full-stack travel-tech websites using PHP, Laravel, HTML, CSS, JavaScript, MySQL. Designing backend APIs and database schemas while enhancing functionality and performance of existing client websites.",
+      technologies: ["PHP", "Laravel", "JavaScript", "MySQL", "XAMPP", "HTML", "CSS"]
     },
     {
-      role: "Full Stack Developer",
-      company: "StartupXYZ",
-      period: "2020 - 2022",
-      description: "Developed and maintained multiple client projects from conception to deployment. Implemented CI/CD pipelines reducing deployment time by 70%. Built responsive web applications with modern frameworks.",
-      technologies: ["Vue.js", "Python", "PostgreSQL", "Firebase", "GCP"]
+      role: "Information Technology Support Specialist",
+      company: "Digital Classroom Services - Rutgers University",
+      period: "Sep 2024 – May 2025",
+      description: "Coordinated setup and configuration of 150+ classroom computers across campus. Assessed and resolved 100+ technical issues, performed proactive maintenance in 30+ rooms, improving reliability and instructor experience.",
+      technologies: ["Hardware Support", "Software Troubleshooting", "Network Management", "System Administration"]
     },
     {
-      role: "Frontend Developer",
-      company: "Digital Agency Pro",
-      period: "2019 - 2020",
-      description: "Created pixel-perfect, responsive websites for 20+ clients. Optimized website performance achieving 95+ Lighthouse scores. Collaborated with designers to bring creative visions to life.",
-      technologies: ["React", "JavaScript", "SCSS", "Webpack", "Figma"]
+      role: "Design Research Intern",
+      company: "Innovation, Design & Entrepreneurship Academy",
+      period: "Jun 2024 – Aug 2024",
+      description: "Developed mixed reality applications for healthcare professionals, improving training and patient care by 20%. Built VR/AR laparoscopic training modules reducing training time by 15%. Delivered functional MR prototype with 90% positive feedback.",
+      technologies: ["Mixed Reality", "Unity", "C#", "VR/AR Development", "Healthcare Tech"]
     },
     {
-      role: "Junior Developer",
-      company: "Code Academy",
-      period: "2018 - 2019",
-      description: "Built foundational skills in web development while contributing to various projects. Participated in code reviews and agile development processes. Gained experience in both frontend and backend technologies.",
-      technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
+      role: "Computer Science Student",
+      company: "Rutgers University - Honors College",
+      period: "Aug 2023 – May 2027",
+      description: "Bachelor of Science in Computer Science with 3.76 GPA. Dean's List recipient for Fall 2023, Spring 2024, Fall 2024, Spring 2025. Member of Rutgers Honors College. Coursework: Data Structures, Computer Architecture, Systems Programming.",
+      technologies: ["Java", "Python", "C/C++", "Data Structures", "Algorithms", "Computer Architecture"]
     }
   ],
   
