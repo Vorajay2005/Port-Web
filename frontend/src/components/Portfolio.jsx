@@ -495,7 +495,12 @@ const Portfolio = () => {
           </p>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-8 mb-12">
-            <Card className="bg-gray-800/50 border-gray-700 hover:border-blue-500 transition-all duration-300 transform hover:scale-105">
+            <Card
+              className="bg-gray-800/50 border-gray-700 hover:border-blue-500 transition-all duration-300 transform hover:scale-105 cursor-pointer"
+              onClick={() =>
+                window.open(`mailto:${mockData.contact.email}`, "_blank")
+              }
+            >
               <CardContent className="p-6 text-center">
                 <Mail className="w-12 h-12 text-blue-400 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-white mb-2">Email</h3>
@@ -503,27 +508,38 @@ const Portfolio = () => {
               </CardContent>
             </Card>
 
-            <Card className="bg-gray-800/50 border-gray-700 hover:border-purple-500 transition-all duration-300 transform hover:scale-105">
+            <Card
+              className="bg-gray-800/50 border-gray-700 hover:border-purple-500 transition-all duration-300 transform hover:scale-105 cursor-pointer"
+              onClick={() => window.open(mockData.contact.linkedin, "_blank")}
+            >
               <CardContent className="p-6 text-center">
                 <Linkedin className="w-12 h-12 text-purple-400 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-white mb-2">
                   LinkedIn
                 </h3>
-                <p className="text-gray-400">{mockData.contact.linkedin}</p>
+                <p className="text-gray-400">linkedin.com/in/vorajay2027</p>
               </CardContent>
             </Card>
 
-            <Card className="bg-gray-800/50 border-gray-700 hover:border-green-500 transition-all duration-300 transform hover:scale-105">
+            <Card
+              className="bg-gray-800/50 border-gray-700 hover:border-green-500 transition-all duration-300 transform hover:scale-105 cursor-pointer"
+              onClick={() => window.open(mockData.contact.github, "_blank")}
+            >
               <CardContent className="p-6 text-center">
                 <Github className="w-12 h-12 text-green-400 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-white mb-2">
                   GitHub
                 </h3>
-                <p className="text-gray-400">{mockData.contact.github}</p>
+                <p className="text-gray-400">github.com/Vorajay2005</p>
               </CardContent>
             </Card>
 
-            <Card className="bg-gray-800/50 border-gray-700 hover:border-orange-500 transition-all duration-300 transform hover:scale-105">
+            <Card
+              className="bg-gray-800/50 border-gray-700 hover:border-orange-500 transition-all duration-300 transform hover:scale-105 cursor-pointer"
+              onClick={() =>
+                window.open(`tel:${mockData.contact.phone}`, "_blank")
+              }
+            >
               <CardContent className="p-6 text-center">
                 <Smartphone className="w-12 h-12 text-orange-400 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-white mb-2">Phone</h3>
@@ -535,6 +551,9 @@ const Portfolio = () => {
           <Button
             size="lg"
             className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white px-12 py-4 text-xl"
+            onClick={() =>
+              window.open(`mailto:${mockData.contact.email}`, "_blank")
+            }
           >
             <Mail className="w-5 h-5 mr-2" />
             Get In Touch
@@ -546,8 +565,8 @@ const Portfolio = () => {
       <footer className="py-8 px-4 border-t border-gray-800 bg-black/50">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-gray-400">
-             {mockData.personal.name} Portfolio. Built with React, Tailwind CSS, and
-            lots of ☕
+            © 2025 {mockData.personal.name} | Built with React, Tailwind CSS,
+            and lots of ☕
           </p>
         </div>
       </footer>

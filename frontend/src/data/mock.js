@@ -69,7 +69,7 @@ export const mockData = {
       title: "NutriCart",
       description:
         "🏆 HackRU Spring 2025 Winner - Smart grocery cart system with AI-powered object detection for real-time pricing and nutrition tracking to encourage healthier choices.",
-      category: "AI",
+      category: "ai",
       tech: [
         "FastAPI",
         "MongoDB",
@@ -87,7 +87,7 @@ export const mockData = {
       title: "CodeDNA",
       description:
         "GitHub 'year-in-review' web app providing personalized insights with interactive charts, secure OAuth, responsive dark UI, and admin panel for sharing coding statistics.",
-      category: "Web",
+      category: "web",
       tech: [
         "PHP",
         "Laravel",
@@ -105,7 +105,7 @@ export const mockData = {
       title: "StockTrade AI",
       description:
         "AI-powered trading platform for Indian stocks with automated model training, technical indicators (RSI, MACD), and portfolio tracking with 70% prediction accuracy.",
-      category: "AI",
+      category: "ai",
       tech: [
         "Python",
         "Streamlit",
@@ -118,6 +118,24 @@ export const mockData = {
       icon: "📈",
       github: "https://github.com/Vorajay2005/StockTrade-AI",
       demo: "https://demo.com",
+    },
+
+    {
+      title: "CodeCanvas 🎨💻",
+      category: "web",
+      description:
+        "A browser-based tool that converts hand-drawn flowcharts into executable code across multiple languages with real-time editing and debugging.",
+      icon: "🖌️",
+      tech: [
+        "React",
+        "Konva.js",
+        "Monaco Editor",
+        "PHP 8.2",
+        "SQLite",
+        "CSS Modules",
+      ],
+      github: "https://github.com/Vorajay2005/Code-Canvas",
+      demo: "",
     },
   ],
 
@@ -165,14 +183,30 @@ export const mockData = {
         "Healthcare Tech",
       ],
     },
-    
+    {
+      role: "Software Engineer Intern",
+      company: "Vashishth Technologies",
+      period: "Oct 2021 - Dec 2021",
+      description:
+        "Collaborated with a dedicated team of 4 professionals to design and develop a comprehensive data de-duplication system, significantly enhancing data storage efficiency. Implemented algorithms to remove 30%+ redundant data from large datasets, improving storage utilization by 30% through system optimization and efficient data management.",
+      technologies: [
+        "Python",
+        "SQL",
+        "Data Structures",
+        "Algorithms",
+        "Data Deduplication",
+        "System Optimization",
+        "Git",
+        "Linux",
+      ],
+    },
   ],
 
   contact: {
     email: "vorajay2005@gmail.com",
     phone: "732-558-9028",
-    linkedin: "linkedin.com/in/vorajay2027",
-    github: "github.com/Vorajay2005",
+    linkedin: "https://linkedin.com/in/vorajay2027",
+    github: "https://github.com/Vorajay2005",
   },
 
   achievements: [
