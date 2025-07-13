@@ -14,36 +14,36 @@ export const mockData = {
   
   skills: {
     frontend: [
-      { name: "React.js", level: 95 },
-      { name: "Next.js", level: 90 },
-      { name: "TypeScript", level: 88 },
-      { name: "Tailwind CSS", level: 92 },
-      { name: "Vue.js", level: 85 },
-      { name: "JavaScript", level: 96 }
+      { name: "React.js", level: 88 },
+      { name: "JavaScript", level: 92 },
+      { name: "TypeScript", level: 85 },
+      { name: "HTML/CSS", level: 90 },
+      { name: "Material-UI", level: 82 },
+      { name: "WordPress", level: 80 }
     ],
     backend: [
-      { name: "Node.js", level: 90 },
-      { name: "Python", level: 85 },
-      { name: "Express.js", level: 88 },
-      { name: "FastAPI", level: 82 },
-      { name: "GraphQL", level: 80 },
-      { name: "REST APIs", level: 94 }
+      { name: "Python", level: 90 },
+      { name: "Java", level: 88 },
+      { name: "Node.js", level: 85 },
+      { name: "PHP", level: 87 },
+      { name: "FastAPI", level: 83 },
+      { name: "Laravel", level: 85 }
     ],
     database: [
-      { name: "MongoDB", level: 88 },
-      { name: "PostgreSQL", level: 85 },
-      { name: "Redis", level: 80 },
-      { name: "Firebase", level: 83 },
-      { name: "MySQL", level: 78 },
-      { name: "Prisma", level: 82 }
+      { name: "MongoDB", level: 85 },
+      { name: "PostgreSQL", level: 80 },
+      { name: "MySQL", level: 88 },
+      { name: "Firebase", level: 82 },
+      { name: "phpMyAdmin", level: 80 },
+      { name: "SQL", level: 85 }
     ],
     tools: [
-      { name: "AWS", level: 85 },
-      { name: "Docker", level: 80 },
-      { name: "Git", level: 95 },
-      { name: "Kubernetes", level: 75 },
-      { name: "CI/CD", level: 82 },
-      { name: "Linux", level: 88 }
+      { name: "Git/GitHub", level: 90 },
+      { name: "Docker", level: 78 },
+      { name: "Terraform", level: 75 },
+      { name: "Google Cloud", level: 80 },
+      { name: "VS Code", level: 95 },
+      { name: "XAMPP", level: 85 }
     ]
   },
   
