@@ -344,7 +344,7 @@ const Portfolio = () => {
             I'm always open to discussing new opportunities, creative projects, or ways to be part of your vision.
           </p>
           
-          <div className="grid md:grid-cols-3 gap-8 mb-12">
+          <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-8 mb-12">
             <Card className="bg-gray-800/50 border-gray-700 hover:border-blue-500 transition-all duration-300 transform hover:scale-105">
               <CardContent className="p-6 text-center">
                 <Mail className="w-12 h-12 text-blue-400 mx-auto mb-4" />
