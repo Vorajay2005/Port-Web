@@ -49,57 +49,57 @@ export const mockData = {
   
   projects: [
     {
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce platform with real-time inventory management, payment processing, and admin dashboard.",
-      category: "web",
-      tech: ["React", "Node.js", "MongoDB", "Stripe", "AWS"],
+      title: "NutriCart",
+      description: "🏆 HackRU Spring 2025 Winner - Smart grocery cart system with AI-powered object detection for real-time pricing and nutrition tracking to encourage healthier choices.",
+      category: "ai",
+      tech: ["FastAPI", "MongoDB", "Terraform", "Python", "Swift", "TensorFlow", "OpenCV"],
       icon: "🛒",
-      github: "https://github.com",
+      github: "https://github.com/Vorajay2005",
       demo: "https://demo.com"
     },
     {
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates, team collaboration, and advanced analytics.",
+      title: "CodeDNA",
+      description: "GitHub 'year-in-review' web app providing personalized insights with interactive charts, secure OAuth, responsive dark UI, and admin panel for sharing coding statistics.",
       category: "web",
-      tech: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Socket.io"],
-      icon: "📋",
-      github: "https://github.com",
-      demo: "https://demo.com"
-    },
-    {
-      title: "AI Chatbot Assistant",
-      description: "Intelligent chatbot powered by GPT-4 with custom knowledge base and natural language processing.",
-      category: "ai",
-      tech: ["Python", "FastAPI", "OpenAI", "LangChain", "Redis"],
-      icon: "🤖",
-      github: "https://github.com",
-      demo: "https://demo.com"
-    },
-    {
-      title: "Mobile Finance Tracker",
-      description: "Cross-platform mobile app for expense tracking with AI-powered categorization and budget insights.",
-      category: "mobile",
-      tech: ["React Native", "Firebase", "TensorFlow", "Chart.js"],
-      icon: "💰",
-      github: "https://github.com",
-      demo: "https://demo.com"
-    },
-    {
-      title: "Real-time Analytics Dashboard",
-      description: "Live dashboard for business metrics with customizable widgets and automated reporting.",
-      category: "web",
-      tech: ["Vue.js", "D3.js", "WebSocket", "Node.js", "InfluxDB"],
+      tech: ["PHP", "Laravel", "Chart.js", "OAuth", "MySQL", "XAMPP", "JavaScript"],
       icon: "📊",
-      github: "https://github.com",
+      github: "https://github.com/Vorajay2005",
       demo: "https://demo.com"
     },
     {
-      title: "Smart Home IoT Platform",
-      description: "Comprehensive IoT platform for smart home automation with voice control and machine learning.",
+      title: "StockTrade AI",
+      description: "AI-powered trading platform for Indian stocks with automated model training, technical indicators (RSI, MACD), and portfolio tracking with 70% prediction accuracy.",
       category: "ai",
-      tech: ["React", "Python", "MQTT", "TensorFlow", "Raspberry Pi"],
-      icon: "🏠",
-      github: "https://github.com",
+      tech: ["Python", "Streamlit", "Random Forest", "Pandas", "NumPy", "Plotly", "yfinance"],
+      icon: "📈",
+      github: "https://github.com/Vorajay2005",
+      demo: "https://demo.com"
+    },
+    {
+      title: "Mixed Reality Healthcare",
+      description: "Immersive VR/AR laparoscopic training modules and real-time patient care tools for healthcare professionals, achieving 90% positive feedback and 15% training time reduction.",
+      category: "vr",
+      tech: ["Unity", "C#", "Mixed Reality", "Healthcare APIs", "3D Modeling"],
+      icon: "🥽",
+      github: "https://github.com/Vorajay2005",
+      demo: "https://demo.com"
+    },
+    {
+      title: "Travel-Tech Websites",
+      description: "Full-stack travel industry websites with robust backend functionality, responsive UI, dynamic content management, and improved performance optimization.",
+      category: "web",
+      tech: ["PHP", "Laravel", "HTML", "CSS", "JavaScript", "MySQL", "XAMPP"],
+      icon: "✈️",
+      github: "https://github.com/Vorajay2005",
+      demo: "https://demo.com"
+    },
+    {
+      title: "Campus IT Solutions",
+      description: "Technical support solutions for 150+ classroom computers across Rutgers campus, resolving 100+ technical issues and improving support efficiency.",
+      category: "systems",
+      tech: ["Hardware", "Software Troubleshooting", "Network Management", "System Administration"],
+      icon: "💻",
+      github: "https://github.com/Vorajay2005",
       demo: "https://demo.com"
     }
   ],
