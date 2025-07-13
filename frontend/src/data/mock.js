@@ -136,9 +136,9 @@ export const mockData = {
   ],
   
   contact: {
-    email: "alex.johnson@example.com",
-    linkedin: "linkedin.com/in/alexjohnson",
-    github: "github.com/alexjohnson",
-    twitter: "@alexjohnsondev"
+    email: "vorajay2005@gmail.com",
+    phone: "732-558-9028",
+    linkedin: "linkedin.com/in/vorajay2027",
+    github: "github.com/Vorajay2005"
   }
 };
