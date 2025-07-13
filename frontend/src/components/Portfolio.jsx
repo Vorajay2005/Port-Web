@@ -368,6 +368,14 @@ const Portfolio = () => {
                 <p className="text-gray-400">{mockData.contact.github}</p>
               </CardContent>
             </Card>
+            
+            <Card className="bg-gray-800/50 border-gray-700 hover:border-orange-500 transition-all duration-300 transform hover:scale-105">
+              <CardContent className="p-6 text-center">
+                <Smartphone className="w-12 h-12 text-orange-400 mx-auto mb-4" />
+                <h3 className="text-xl font-semibold text-white mb-2">Phone</h3>
+                <p className="text-gray-400">{mockData.contact.phone}</p>
+              </CardContent>
+            </Card>
           </div>
           
           <Button 
