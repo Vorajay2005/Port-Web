@@ -99,7 +99,7 @@ export const mockData = {
       ],
       icon: "📊",
       github: "https://github.com/Vorajay2005/Code-DNA",
-      demo: "https://demo.com",
+      demo: "https://code-dna.onrender.com",
     },
     {
       title: "StockTrade AI",
