@@ -117,7 +117,7 @@ export const mockData = {
       ],
       icon: "📈",
       github: "https://github.com/Vorajay2005/StockTrade-AI",
-      demo: "https://demo.com",
+      demo: "https://stocktradeai.streamlit.app",
     },
 
     {
