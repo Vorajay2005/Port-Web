@@ -137,6 +137,23 @@ export const mockData = {
       github: "https://github.com/Vorajay2005/Code-Canvas",
       demo: "",
     },
+    {
+      title: "TravelFlow 🌍",
+      category: "web",
+      description:
+        "A modern, responsive travel website that helps users discover destinations, explore packages, and plan getaways, built with HTML, CSS, and JavaScript with beautiful animations and interactive features.",
+      icon: "🧳",
+      tech: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap 5.3.0",
+        "Font Awesome 6.4.0",
+        "Leaflet.js",
+      ],
+      github: "https://github.com/Vorajay2005/TravelFlow",
+      demo: "https://travel-flow.netlify.app/",
+    },
   ],
 
   experience: [
