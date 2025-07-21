@@ -135,7 +135,7 @@ export const mockData = {
         "CSS Modules",
       ],
       github: "https://github.com/Vorajay2005/Code-Canvas",
-      demo: "",
+      demo: "https://jay-canvas-coder-2024.vercel.app/",
     },
     {
       title: "TravelFlow 🌍",
