@@ -138,6 +138,65 @@ export const mockData = {
       demo: "https://jay-canvas-coder-2024.vercel.app/",
     },
     {
+      title: "QuizMasterAI 🧠📚",
+      category: "web",
+      description:
+        "An intelligent AI-powered study tool that converts your notes into personalized quizzes with real-time feedback, performance analytics, and gamified learning to help high school students study smarter.",
+      icon: "🧠",
+      tech: [
+        "React 18",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "OpenAI GPT-4",
+        "Framer Motion",
+        "Zustand",
+        "React Query"
+      ],
+      github: "https://github.com/Vorajay2005/QuizMasterAI", 
+      demo: "http://localhost:5173", 
+    },
+
+    {
+      title: "Lost & Found AI System 🧠📦",
+      category: "web",
+      description:
+        "A Flask-based AI web app that matches lost and found items using NLP and ML. It supports image uploads, smart text preprocessing, and AI-powered matching with a modern UI.",
+      icon: "🔍",
+      tech: [
+        "Python",
+        "Flask",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "SQLite",
+        "scikit-learn",
+        "NLTK",
+      ],
+      github: "https://github.com/Vorajay2005/TraceAI",
+      demo: "http://localhost:5000",
+    },
+    {
+      title: "Resume Analyzer 📄🤖",
+      category: "web",
+      description:
+        "An AI-powered resume analyzer that evaluates your resume against job descriptions with 95% accuracy, offering detailed improvement suggestions and ATS optimization using NLP and ML.",
+      icon: "📄",
+      tech: [
+        "Python",
+        "FastAPI",
+        "React",
+        "Tailwind CSS",
+        "Docker",
+        "spaCy",
+        "scikit-learn",
+        "sentence-transformers",
+      ],
+      github: "https://github.com/Vorajay2005/Resume-Analyzer",
+      demo: "http://localhost:3000",
+    },
+    {
       title: "TravelFlow 🌍",
       category: "web",
       description:
