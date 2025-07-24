@@ -139,7 +139,7 @@ export const mockData = {
     },
     {
       title: "QuizMasterAI 🧠📚",
-      category: "web",
+      category: "ai",
       description:
         "An intelligent AI-powered study tool that converts your notes into personalized quizzes with real-time feedback, performance analytics, and gamified learning to help high school students study smarter.",
       icon: "🧠",
@@ -152,15 +152,15 @@ export const mockData = {
         "OpenAI GPT-4",
         "Framer Motion",
         "Zustand",
-        "React Query"
+        "React Query",
       ],
-      github: "https://github.com/Vorajay2005/QuizMasterAI", 
-      demo: "http://localhost:5173", 
+      github: "https://github.com/Vorajay2005/QuizMasterAI",
+      demo: "http://localhost:5173",
     },
 
     {
       title: "Lost & Found AI System 🧠📦",
-      category: "web",
+      category: "ai",
       description:
         "A Flask-based AI web app that matches lost and found items using NLP and ML. It supports image uploads, smart text preprocessing, and AI-powered matching with a modern UI.",
       icon: "🔍",
@@ -179,7 +179,7 @@ export const mockData = {
     },
     {
       title: "Resume Analyzer 📄🤖",
-      category: "web",
+      category: "ai",
       description:
         "An AI-powered resume analyzer that evaluates your resume against job descriptions with 95% accuracy, offering detailed improvement suggestions and ATS optimization using NLP and ML.",
       icon: "📄",
