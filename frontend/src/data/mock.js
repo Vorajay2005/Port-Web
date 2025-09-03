@@ -240,7 +240,7 @@ export const mockData = {
       company: "Puratech Consultancy Solutions Pvt Ltd",
       period: "Jun 2025 – Aug 2025",
       description:
-        "Developing full-stack travel-tech websites using PHP, Laravel, HTML, CSS, JavaScript, MySQL. Designing backend APIs and database schemas while enhancing functionality and performance of existing client websites.",
+        "Developed full-stack travel-tech websites using PHP, Laravel, HTML, CSS, JavaScript, and MySQL. Designed backend APIs and database schemas while enhancing the functionality and performance of existing client websites.",
       technologies: [
         "PHP",
         "Laravel",
@@ -251,6 +251,7 @@ export const mockData = {
         "CSS",
       ],
     },
+
     {
       role: "Information Technology Support Specialist",
       company: "Digital Classroom Services - Rutgers University",
