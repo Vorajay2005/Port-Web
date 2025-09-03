@@ -178,6 +178,25 @@ export const mockData = {
       demo: "http://localhost:5000",
     },
     {
+      title: "SilentAid 🧠🔊",
+      category: "ai",
+      description:
+        "An AI accessibility tool that transcribes speech to text and adds emotional context using NLP and deep learning. It runs in the browser with a modern UI, powered by a Flask backend and HuggingFace Transformers.",
+      icon: "🎙️",
+      tech: [
+        "Python",
+        "Flask",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Web Speech API",
+        "HuggingFace Transformers",
+        "PyTorch",
+      ],
+      github: "https://github.com/Vorajay2005/SilentAid",
+      demo: "http://localhost:5000",
+    },
+    {
       title: "Resume Analyzer 📄🤖",
       category: "ai",
       description:
@@ -219,7 +238,7 @@ export const mockData = {
     {
       role: "Software Engineer Intern",
       company: "Puratech Consultancy Solutions Pvt Ltd",
-      period: "Jun 2025 – Present",
+      period: "Jun 2025 – Aug 2025",
       description:
         "Developing full-stack travel-tech websites using PHP, Laravel, HTML, CSS, JavaScript, MySQL. Designing backend APIs and database schemas while enhancing functionality and performance of existing client websites.",
       technologies: [
