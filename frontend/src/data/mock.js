@@ -198,7 +198,7 @@ export const mockData = {
     },
     {
       title: "Mind Garden 🪴 🌱",
-      category: "ai",
+      category: "web",
       description:
         "MindGarden is a gamified productivity web application that transforms your daily tasks, focus sessions, and learning into a rewarding experience. Complete tasks, use the Pomodoro timer, and create flashcards to earn growth points that make your virtual plant flourish!",
       icon: "📄",
