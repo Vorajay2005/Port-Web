@@ -9,7 +9,7 @@ export const mockData = {
       { label: "GPA", value: "3.76" },
       { label: "Dean's List", value: "4x" },
       { label: "Projects Built", value: "10+" },
-      { label: "Hackathons Won", value: "1st" },
+      { label: "Hackathons Won", value: "1" },
     ],
   },
 
@@ -202,12 +202,7 @@ export const mockData = {
       description:
         "MindGarden is a gamified productivity web application that transforms your daily tasks, focus sessions, and learning into a rewarding experience. Complete tasks, use the Pomodoro timer, and create flashcards to earn growth points that make your virtual plant flourish!",
       icon: "📄",
-      tech: [
-        "JavaScript",
-        "HTML",
-        "Tailwind CSS",
-        "Bootstrap", 
-      ],
+      tech: ["JavaScript", "HTML", "Tailwind CSS", "Bootstrap"],
       github: "https://github.com/Vorajay2005/MindGarden",
       demo: "https://gardenmind.netlify.app/",
     },
