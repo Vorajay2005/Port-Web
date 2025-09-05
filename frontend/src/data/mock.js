@@ -197,23 +197,19 @@ export const mockData = {
       demo: "http://localhost:5000",
     },
     {
-      title: "Mind Garden 📄🤖",
+      title: "Mind Garden 🪴 🌱",
       category: "ai",
       description:
         "MindGarden is a gamified productivity web application that transforms your daily tasks, focus sessions, and learning into a rewarding experience. Complete tasks, use the Pomodoro timer, and create flashcards to earn growth points that make your virtual plant flourish!",
       icon: "📄",
       tech: [
-        "Python",
-        "FastAPI",
-        "React",
+        "JavaScript",
+        "HTML",
         "Tailwind CSS",
-        "Docker",
-        "spaCy",
-        "scikit-learn",
-        "sentence-transformers",
+        "Bootstrap", 
       ],
       github: "https://github.com/Vorajay2005/MindGarden",
-      demo: "http://localhost:3000",
+      demo: "https://gardenmind.netlify.app/",
     },
     {
       title: "Resume Analyzer 📄🤖",
